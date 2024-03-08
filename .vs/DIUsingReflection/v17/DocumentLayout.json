@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\risha\\source\\repos\\DIUsingReflection\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{77D5C580-D126-42B7-B09A-5B975FCFA733}|DIUsingReflection\\DIUsingReflection.csproj|c:\\users\\risha\\source\\repos\\diusingreflection\\diusingreflection\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D5C580-D126-42B7-B09A-5B975FCFA733}|DIUsingReflection\\DIUsingReflection.csproj|solutionrelative:diusingreflection\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D5C580-D126-42B7-B09A-5B975FCFA733}|DIUsingReflection\\DIUsingReflection.csproj|c:\\users\\risha\\source\\repos\\diusingreflection\\diusingreflection\\extensions\\servicecollectionsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D5C580-D126-42B7-B09A-5B975FCFA733}|DIUsingReflection\\DIUsingReflection.csproj|solutionrelative:diusingreflection\\extensions\\servicecollectionsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D5C580-D126-42B7-B09A-5B975FCFA733}|DIUsingReflection\\DIUsingReflection.csproj|c:\\users\\risha\\source\\repos\\diusingreflection\\diusingreflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D5C580-D126-42B7-B09A-5B975FCFA733}|DIUsingReflection\\DIUsingReflection.csproj|solutionrelative:diusingreflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{77D5C580-D126-42B7-B09A-5B975FCFA733}|DIUsingReflection\\DIUsingReflection.csproj|c:\\users\\risha\\source\\repos\\diusingreflection\\diusingreflection\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77D5C580-D126-42B7-B09A-5B975FCFA733}|DIUsingReflection\\DIUsingReflection.csproj|solutionrelative:diusingreflection\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{77D5C580-D126-42B7-B09A-5B975FCFA733}|DIUsingReflection\\DIUsingReflection.csproj|c:\\users\\risha\\source\\repos\\diusingreflection\\diusingreflection\\services\\singletonserviceexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77D5C580-D126-42B7-B09A-5B975FCFA733}|DIUsingReflection\\DIUsingReflection.csproj|solutionrelative:diusingreflection\\services\\singletonserviceexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77D5C580-D126-42B7-B09A-5B975FCFA733}|DIUsingReflection\\DIUsingReflection.csproj|c:\\users\\risha\\source\\repos\\diusingreflection\\diusingreflection\\extensions\\servicecollectionsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77D5C580-D126-42B7-B09A-5B975FCFA733}|DIUsingReflection\\DIUsingReflection.csproj|solutionrelative:diusingreflection\\extensions\\servicecollectionsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77D5C580-D126-42B7-B09A-5B975FCFA733}|DIUsingReflection\\DIUsingReflection.csproj|c:\\users\\risha\\source\\repos\\diusingreflection\\diusingreflection\\services\\scopedserviceexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,6 +79,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\risha\\source\\repos\\DIUsingReflection\\DIUsingReflection\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DIUsingReflection\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\risha\\source\\repos\\DIUsingReflection\\DIUsingReflection\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DIUsingReflection\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T07:58:34.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\risha\\source\\repos\\DIUsingReflection\\DIUsingReflection\\Program.cs",
+              "RelativeDocumentMoniker": "DIUsingReflection\\Program.cs",
+              "ToolTip": "C:\\Users\\risha\\source\\repos\\DIUsingReflection\\DIUsingReflection\\Program.cs",
+              "RelativeToolTip": "DIUsingReflection\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T07:58:10.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\risha\\source\\repos\\DIUsingReflection\\DIUsingReflection\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "DIUsingReflection\\WeatherForecast.cs",
@@ -83,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "ServiceCollectionsExtensions.cs",
               "DocumentMoniker": "C:\\Users\\risha\\source\\repos\\DIUsingReflection\\DIUsingReflection\\Extensions\\ServiceCollectionsExtensions.cs",
               "RelativeDocumentMoniker": "DIUsingReflection\\Extensions\\ServiceCollectionsExtensions.cs",
@@ -96,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "SingletonServiceExample.cs",
               "DocumentMoniker": "C:\\Users\\risha\\source\\repos\\DIUsingReflection\\DIUsingReflection\\Services\\SingletonServiceExample.cs",
               "RelativeDocumentMoniker": "DIUsingReflection\\Services\\SingletonServiceExample.cs",
@@ -104,12 +138,11 @@
               "RelativeToolTip": "DIUsingReflection\\Services\\SingletonServiceExample.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T07:31:00.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T07:31:00.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ISingletonExample.cs",
               "DocumentMoniker": "C:\\Users\\risha\\source\\repos\\DIUsingReflection\\DIUsingReflection\\Interfaces\\ISingletonExample.cs",
               "RelativeDocumentMoniker": "DIUsingReflection\\Interfaces\\ISingletonExample.cs",
@@ -117,12 +150,11 @@
               "RelativeToolTip": "DIUsingReflection\\Interfaces\\ISingletonExample.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T07:30:02.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T07:30:02.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ITransient.cs",
               "DocumentMoniker": "C:\\Users\\risha\\source\\repos\\DIUsingReflection\\DIUsingReflection\\Interfaces\\ITransient.cs",
               "RelativeDocumentMoniker": "DIUsingReflection\\Interfaces\\ITransient.cs",
@@ -130,12 +162,11 @@
               "RelativeToolTip": "DIUsingReflection\\Interfaces\\ITransient.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T07:30:06.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T07:30:06.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "IScopedExample.cs",
               "DocumentMoniker": "C:\\Users\\risha\\source\\repos\\DIUsingReflection\\DIUsingReflection\\Interfaces\\IScopedExample.cs",
               "RelativeDocumentMoniker": "DIUsingReflection\\Interfaces\\IScopedExample.cs",
@@ -143,12 +174,11 @@
               "RelativeToolTip": "DIUsingReflection\\Interfaces\\IScopedExample.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T07:29:41.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T07:29:41.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "IScoped.cs",
               "DocumentMoniker": "C:\\Users\\risha\\source\\repos\\DIUsingReflection\\DIUsingReflection\\Interfaces\\IScoped.cs",
               "RelativeDocumentMoniker": "DIUsingReflection\\Interfaces\\IScoped.cs",
@@ -156,12 +186,11 @@
               "RelativeToolTip": "DIUsingReflection\\Interfaces\\IScoped.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T07:29:53.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T07:29:53.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ScopedServiceExample.cs",
               "DocumentMoniker": "C:\\Users\\risha\\source\\repos\\DIUsingReflection\\DIUsingReflection\\Services\\ScopedServiceExample.cs",
               "RelativeDocumentMoniker": "DIUsingReflection\\Services\\ScopedServiceExample.cs",
@@ -169,12 +198,11 @@
               "RelativeToolTip": "DIUsingReflection\\Services\\ScopedServiceExample.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T07:31:50.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T07:31:50.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "TransientServiceExample.cs",
               "DocumentMoniker": "C:\\Users\\risha\\source\\repos\\DIUsingReflection\\DIUsingReflection\\Services\\TransientServiceExample.cs",
               "RelativeDocumentMoniker": "DIUsingReflection\\Services\\TransientServiceExample.cs",
@@ -182,12 +210,11 @@
               "RelativeToolTip": "DIUsingReflection\\Services\\TransientServiceExample.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T07:32:00.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T07:32:00.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ITransientExample.cs",
               "DocumentMoniker": "C:\\Users\\risha\\source\\repos\\DIUsingReflection\\DIUsingReflection\\Interfaces\\ITransientExample.cs",
               "RelativeDocumentMoniker": "DIUsingReflection\\Interfaces\\ITransientExample.cs",
@@ -195,12 +222,11 @@
               "RelativeToolTip": "DIUsingReflection\\Interfaces\\ITransientExample.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T07:30:13.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T07:30:13.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ISingleton.cs",
               "DocumentMoniker": "C:\\Users\\risha\\source\\repos\\DIUsingReflection\\DIUsingReflection\\Interfaces\\ISingleton.cs",
               "RelativeDocumentMoniker": "DIUsingReflection\\Interfaces\\ISingleton.cs",
@@ -208,8 +234,7 @@
               "RelativeToolTip": "DIUsingReflection\\Interfaces\\ISingleton.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T07:29:08.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T07:29:08.095Z"
             }
           ]
         }
