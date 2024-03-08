@@ -1,0 +1,6 @@
+@DIUsingReflection_HostAddress = http://localhost:5265
+
+GET {{DIUsingReflection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

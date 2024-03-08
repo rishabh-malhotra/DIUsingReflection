@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/HcP6hGSYsv61N8GJ+S/0Y6yLkgQiiIRlICMUqliJ8fwu+s2NpHwkK6IuZX4oYldB2l33kiE30bjN9Xei66Z8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\risha\\source\\repos\\DIUsingReflection\\DIUsingReflection\\DIUsingReflection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\risha\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\risha\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\risha\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\risha\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\risha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\risha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
