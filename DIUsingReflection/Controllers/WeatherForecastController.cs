@@ -16,13 +16,20 @@ namespace DIUsingReflection.Controllers
         private readonly ISingletonExample _singletonExample;
         private readonly ITransientExample _transientExample;
         private readonly IScopedExample _scopedExample;
+        private readonly ISingletonExample2 _singletonExample2;
+        private readonly ITransientExample2 _transientExample2;
+        private readonly IScopedExample2 _scopedExample2;
         public WeatherForecastController(ILogger<WeatherForecastController> logger, ISingletonExample singletonExample, 
-                                            ITransientExample transientExample, IScopedExample scopedExample)
+                                            ITransientExample transientExample, IScopedExample scopedExample, ISingletonExample2 singletonExample2, 
+                                            ITransientExample2 transientExample2, IScopedExample2 scopedExample2)
         {
             _logger = logger;
             _singletonExample = singletonExample;
             _transientExample = transientExample;
             _scopedExample = scopedExample;
+            _singletonExample2 = singletonExample2;
+            _transientExample2 = transientExample2;
+            _scopedExample2 = scopedExample2;
         }
 
         [HttpGet(Name = "GetWeatherForecast")]
@@ -35,7 +42,10 @@ namespace DIUsingReflection.Controllers
                 Summary = Summaries[Random.Shared.Next(Summaries.Length)],
                 SingletonGuid = _singletonExample.DoSingletonWork(),
                 ScopedGuid = _scopedExample.DoScopedWork(),
-                TransientGuid = _transientExample.DoTransientWork()
+                TransientGuid = _transientExample.DoTransientWork(),
+                SingletonGuid2 = _singletonExample2.DoSingletonWorkAgain(),
+                ScopedGuid2 = _scopedExample2.DoScopedWorkAgain(),
+                TransientGuid2 = _transientExample2.DoTransientWorkAgain()
             })
             .ToArray();
         }

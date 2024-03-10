@@ -11,7 +11,11 @@ namespace DIUsingReflection
         public string? Summary { get; set; }
         public Guid SingletonGuid { get; set; }
         public Guid TransientGuid { get; set; }
-
+            
         public Guid ScopedGuid { get; set; }
+        public Guid SingletonGuid2 { get; set; }
+        public Guid TransientGuid2 { get; set; }
+
+        public Guid ScopedGuid2 { get; set; }
     }
 }
